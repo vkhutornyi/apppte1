@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "app-pte-1"
+                    },
+                    {
+                        "path":  "app-pte-1.Test"
                     }
                 ],
     "settings":  {
